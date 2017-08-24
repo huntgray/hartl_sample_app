@@ -13,6 +13,12 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Getting started
 
+RVM to use Ruby-2.2.5
+
+```
+$ rvm use 2.2.5
+```
+
 To get started with the app, clone the repo and then install the needed gems:
 
 ```
